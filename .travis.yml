@@ -1,4 +1,6 @@
-language: javascript
+language: node_js
 
 beforescript:
   - npm install
+os: linux
+dis: xenial
