@@ -1,5 +1,8 @@
 # job_task
 
+# travis badge
+https://travis-ci.com/mahmoudkamalfci/Job_task.svg?branch=main
+
 ## Project setup
 ```
 npm install
