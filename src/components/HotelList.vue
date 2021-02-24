@@ -141,7 +141,7 @@
                 {{ hotel.city }}
               </p>
               <p class="city">
-                <strong>Price: </strong>
+                <strong>available on: </strong>
                 {{ hotel.available_on }}
               </p>
             </div>
